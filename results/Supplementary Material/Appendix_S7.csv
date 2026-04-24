@@ -1,0 +1,141 @@
+,Accepted binomial,Family,Clade,Risk category,DormancyShort,Topt,Topt.upp,Topt.low,Toptbreadth,SEopt,SEoptbreadth,Conservation interest,Restoration relevance
+1,Achillea maritima,Asteraceae,Asterids,High,PD,14.99729097,18.22005153,11.77453042,6.445521107,5.590802386,29.32620835,0,0
+2,Achillea millefolium,Asteraceae,Asterids,Thermally resilient,PD,18.64621121,23.00420549,14.28821692,8.715988567,0.686244951,5.694081857,0,1
+3,Achnatherum bromoides,Poaceae,Monocots,High,NoInfo,16.93767286,18.17934369,15.69600203,2.483341659,NA,NA,0,0
+4,Agrostis capillaris,Poaceae,Monocots,Warm-narrow,PD,17.28529969,21.21179815,13.35880124,7.852996916,NA,NA,0,1
+5,Agrostis castellana,Poaceae,Monocots,Thermally resilient,PD,20.03670731,35.12911783,4.944296795,30.18482104,NA,NA,0,1
+6,Allium sphaerocephalon,Amaryllidaceae,Monocots,High,PD,13.92310809,17.85619195,9.990024229,7.866167717,0.908665079,4.306099102,0,1
+7,Antennaria dioica,Asteraceae,Asterids,Cold-wide,NoInfo,14.8087083,19.23680096,10.38061565,8.856185314,NA,NA,0,1
+8,Anthemis maritima,Asteraceae,Asterids,Warm-narrow,NoInfo,17.6343806,18.82015582,16.44860538,2.371550448,NA,NA,0,0
+9,Anthoxanthum odoratum,Poaceae,Monocots,Thermally resilient,PD,22.49220008,29.3583112,15.62608895,13.73222225,NA,NA,0,1
+10,Anthyllis vulneraria,Fabaceae,Rosids,Cold-wide,PY(PD),4.787512193,27.05865628,-17.4836319,44.54228818,10.20760875,25.83829208,1,1
+11,Arbutus andrachne,Ericaceae,Asterids,High,PD,10.67443305,14.06773962,7.281126488,6.786613133,NA,NA,0,0
+12,Arbutus unedo,Ericaceae,Asterids,High,PD,10.75675076,14.22552246,7.287979053,6.937543409,3.465648857,9.153441931,0,0
+13,Arenaria grandiflora,Caryophyllaceae,Caryophyllales,Cold-wide,PD,8.935809252,13.35500416,4.516614342,8.83838982,NA,NA,0,1
+14,Arrhenatherum elatius,Poaceae,Monocots,Thermally resilient,PD,21.45458798,27.97652079,14.93265517,13.04386562,1.87797778,4.637975229,0,1
+15,Artemisia herba-alba,Asteraceae,Asterids,High,NoInfo,11.59477636,15.5454776,7.644075127,7.90140247,0.772927126,2.513271868,0,0
+16,Bellis perennis,Asteraceae,Asterids,Thermally resilient,PD,17.77879393,25.21757805,10.34000981,14.87756824,0.54005303,2.169088719,0,1
+17,Bolboschoenus maritimus,Cyperaceae,Monocots,Warm-narrow,PD,24.01956912,25.46189902,22.57723922,2.884659797,NA,NA,0,0
+18,Brachypodium sylvaticum,Poaceae,Monocots,Warm-narrow,PD,19.51091396,21.46679636,17.55503155,3.911764809,NA,NA,0,1
+19,Bromus erectus,Poaceae,Monocots,Warm-narrow,PD,17.8259298,20.3604718,15.29138779,5.069084007,0.338812475,1.149786373,0,1
+20,Buphthalmum salicifolium,Asteraceae,Asterids,Thermally resilient,NoInfo,18.89208091,24.72467566,13.05948615,11.66518952,NA,NA,0,1
+21,Calendula arvensis,Asteraceae,Asterids,Thermally resilient,NoInfo,17.88905197,22.74333514,13.03476879,9.708566356,NA,NA,0,0
+22,Calluna vulgaris,Ericaceae,Asterids,Warm-narrow,PD,18.13068714,20.53019966,15.73117462,4.799025035,1.305385544,7.763967318,0,0
+23,Calystegia soldanella,Convolvulaceae,Asterids,Thermally resilient,PY(PD),18.50659901,23.79393768,13.21926035,10.57467733,1.618489345,10.29239078,0,0
+24,Carex echinata,Cyperaceae,Monocots,Warm-narrow,PD,20.43150545,23.95385045,16.90916046,7.044689984,NA,NA,0,1
+25,Carex lepidocarpa,Cyperaceae,Monocots,Warm-narrow,PD,22.45494758,24.7853397,20.12455547,4.660784226,3.356425334,12.19883825,0,0
+26,Carlina vulgaris,Asteraceae,Asterids,Thermally resilient,PD,20.28939769,25.05654698,15.52224839,9.534298591,7.939506919,11.41560301,0,1
+27,Catapodium rigidum,Poaceae,Monocots,Warm-narrow,PD,17.8631055,20.19273639,15.53347461,4.659261777,NA,NA,0,0
+28,Centaurea jacea,Asteraceae,Asterids,High,NoInfo,16.79312421,20.22002303,13.36622539,6.853797638,0.480034076,22.14229706,0,1
+29,Centaurea scabiosa,Asteraceae,Asterids,High,NoInfo,15.75911403,18.2251075,13.29312056,4.931986943,3.064582449,49.98018843,0,1
+30,Cistus salviifolius,Cistaceae,Rosids,High,PY(PD),15.13421723,17.3217013,12.94673315,4.374968147,0.776810061,3.678984497,0,0
+31,Clematis vitalba,Ranunculaceae,EarlyEU,High,M(P)D,15.03008612,16.87205518,13.18811707,3.683938115,1.229930489,9.08212069,0,0
+32,Cleonia lusitanica,Lamiaceae,Asterids,High,NoInfo,12.30519141,16.22731988,8.383062939,7.844256942,2.068514906,5.510599617,0,0
+33,Clinopodium vulgare,Lamiaceae,Asterids,Thermally resilient,PD,19.4048341,24.69281621,14.11685198,10.57596423,NA,NA,0,1
+34,Coronilla varia,Fabaceae,Rosids,Warm-narrow,PY(PD),18.8015926,21.10767865,16.49550656,4.612172085,0.739228569,4.09461338,0,1
+35,Crithmum maritimum,Apiaceae,Asterids,High,M(P)D,13.5846467,16.31710962,10.85218377,5.464925851,1.788567644,5.52044271,0,0
+36,Crucianella maritima,Rubiaceae,Asterids,High,NoInfo,14.47406312,18.33656057,10.61156566,7.724994911,1.922569741,15.38813368,0,0
+37,Cynosurus cristatus,Poaceae,Monocots,Thermally resilient,NoInfo,23.95406349,42.74988157,5.15824542,37.59163615,17.86843606,41.95604432,0,1
+38,Cynosurus echinatus,Poaceae,Monocots,Cold-wide,NoInfo,16.7926701,22.00455672,11.58078349,10.42377324,1.036247942,1.26453716,0,0
+39,Cyperus capitatus,Cyperaceae,Monocots,Warm-narrow,NoInfo,19.50808205,19.76119327,19.25497084,0.506222429,1356.167588,5271.232145,0,0
+40,Dactylis glomerata,Poaceae,Monocots,Thermally resilient,PD,19.31296683,23.68400441,14.94192924,8.742075171,0.4111622,1.158676091,0,1
+41,Daucus carota,Apiaceae,Asterids,Cold-wide,M(P)D,16.05544102,21.10972343,11.00115861,10.10856482,1.553442078,4.155578211,0,1
+42,Echinophora spinosa,Apiaceae,Asterids,Warm-narrow,NoInfo,19.97028915,21.86805872,18.07251958,3.795539136,1.978710268,10.63381633,0,0
+43,Echium plantagineum,Boraginaceae,Asterids,Warm-narrow,NoInfo,18.73997676,21.84646854,15.63348497,6.212983565,1.868210193,15.7730346,0,0
+44,Eryngium campestre,Apiaceae,Asterids,High,M(P)D,13.93392875,15.80559962,12.06225788,3.743341732,NA,NA,0,1
+45,Eryngium maritimum,Apiaceae,Asterids,Warm-narrow,M(P)D,17.53565538,19.46291709,15.60839368,3.854523414,NA,NA,0,0
+46,Euphorbia amygdaloides,Euphorbiaceae,Rosids,Warm-narrow,PD,17.40819293,19.27026352,15.54612233,3.724141195,1.001867136,14.50188381,0,0
+47,Euphorbia dendroides,Euphorbiaceae,Rosids,Warm-narrow,ND,18.25866745,21.50803375,15.00930116,6.498732594,0.407321262,2.391554285,0,0
+48,Euphorbia paralias,Euphorbiaceae,Rosids,Warm-narrow,PD,19.08405944,21.47695154,16.69116735,4.785784193,NA,NA,0,0
+49,Euphorbia peplis,Euphorbiaceae,Rosids,Warm-narrow,PD,22.80357167,24.40444018,21.20270317,3.201737012,0.062229484,0.18309946,0,0
+50,Euphorbia terracina,Euphorbiaceae,Rosids,Thermally resilient,PD,27.82369669,37.54172553,18.10566785,19.43605768,0.323772228,10.15609105,0,0
+51,Festuca fasciculata,Poaceae,Monocots,Cold-wide,PD,14.44945561,22.69892656,6.199984664,16.4989419,0.759196921,5.724949046,0,0
+52,Festuca rubra,Poaceae,Monocots,Thermally resilient,PD,18.4465174,24.77293553,12.12009928,12.65283625,NA,NA,0,1
+53,Festuca varia,Poaceae,Monocots,High,PD,12.28635435,16.14910946,8.42359924,7.725510222,1.30278983,5.117686553,0,1
+54,Ficus carica,Moraceae,Rosids,Warm-narrow,ND,20.42988992,23.65060477,17.20917507,6.441429706,NA,NA,0,0
+55,Fumana procumbens,Cistaceae,Rosids,Warm-narrow,PY(PD),20.17057646,23.19260136,17.14855156,6.044049803,0.231625167,0.985182686,0,0
+56,Galium aparine,Rubiaceae,Asterids,High,PD,14.80985217,16.46757303,13.15213132,3.315441712,0.585537937,3.443763024,0,0
+57,Gentiana acaulis,Gentianaceae,Asterids,High,M(P)D,14.54182675,16.24494057,12.83871293,3.406227641,NA,NA,0,1
+58,Geum urbanum,Rosaceae,Rosids,Warm-narrow,PD,19.54199332,22.85901105,16.22497559,6.634035467,NA,NA,0,1
+59,Glebionis coronaria,Asteraceae,Asterids,Cold-wide,PD,6.61799585,11.74171002,1.494281676,10.24742835,NA,NA,0,0
+60,Globularia cordifolia,Plantaginaceae,Asterids,Thermally resilient,NoInfo,18.48229209,24.55331911,12.41126506,12.14205405,NA,NA,0,1
+61,Helianthemum apenninum,Cistaceae,Rosids,Warm-narrow,PY(PD),18.69041224,21.91922171,15.46160277,6.45761894,NA,NA,0,1
+62,Helianthemum nummularium,Cistaceae,Rosids,Thermally resilient,PD,17.45562907,26.09967462,8.811583519,17.2880911,1.756197507,6.55446292,0,1
+63,Helichrysum italicum,Asteraceae,Asterids,High,PD,15.93669974,18.28350038,13.5898991,4.693601286,1.411656369,78.50681817,0,0
+64,Helichrysum stoechas,Asteraceae,Asterids,Warm-narrow,PD,17.60304217,20.86787219,14.33821214,6.529660053,NA,NA,0,0
+65,Helictochloa marginata,Poaceae,Monocots,High,NoInfo,11.91930235,15.67546502,8.163139683,7.512325338,NA,NA,0,1
+66,Hippocrepis emerus,Fabaceae,Rosids,High,NoInfo,11.79079188,14.01502683,9.566556933,4.448469896,1.177996411,6.467724744,0,0
+67,Holcus lanatus,Poaceae,Monocots,Thermally resilient,PD,18.9034513,25.41154906,12.39535354,13.01619552,2.251353413,6.047459467,0,1
+68,Hordeum murinum,Poaceae,Monocots,Warm-narrow,PD,18.28329359,21.14012809,15.4264591,5.713668984,0.219101988,0.436466841,0,0
+69,Hypericum perforatum,Hypericaceae,Rosids,Warm-narrow,PD,17.86213111,20.66141675,15.06284546,5.59857129,2.314141145,5.314604178,0,1
+70,Hypericum trichocaulon,Hypericaceae,Rosids,High,PD,14.94853799,15.26038275,14.63669323,0.623689522,NA,NA,0,0
+71,Hypochaeris radicata,Asteraceae,Asterids,Thermally resilient,PD,17.55230878,23.11624907,11.98836848,11.12788059,1.770081148,53.81740421,0,1
+72,Jasione crispa,Campanulaceae,Asterids,Warm-narrow,NoInfo,18.23307199,19.49158826,16.97455572,2.517032543,0.859398569,16.77484544,1,1
+73,Jasione montana,Campanulaceae,Asterids,Warm-narrow,NoInfo,18.52516118,19.98077244,17.06954993,2.911222517,NA,NA,1,1
+74,Juncus bufonius,Juncaceae,Monocots,High,PD,14.55602724,17.19678387,11.91527061,5.281513265,0.824558917,3.226415374,0,0
+75,Juncus inflexus,Juncaceae,Monocots,Warm-narrow,PD,21.29246349,23.25691614,19.32801084,3.928905303,NA,NA,0,0
+76,Jurinea humilis,Asteraceae,Asterids,High,NoInfo,14.8351351,17.66639925,12.00387096,5.662528297,NA,NA,0,1
+77,Koeleria vallesiana,Poaceae,Monocots,High,NoInfo,15.86441684,18.84662483,12.88220885,5.964415977,2.619043732,3.539805237,0,1
+78,Lapsana communis,Asteraceae,Asterids,High,PD,15.69814854,17.41397399,13.98232309,3.431650902,1.005775203,4.314528888,0,0
+79,Lathyrus pratensis,Fabaceae,Rosids,Cold-wide,PY(PD),14.80019276,20.39868263,9.201702901,11.19697972,NA,NA,0,1
+80,Lavandula stoechas,Lamiaceae,Asterids,High,PD,14.74237753,17.73361684,11.75113823,5.982478617,1.155244714,12.67389041,0,0
+81,Lolium perenne,Poaceae,Monocots,Cold-wide,PD,13.31935742,23.2697785,3.36893634,19.90084216,NA,NA,0,1
+82,Lonicera xylosteum,Caprifoliaceae,Asterids,High,PD,14.02770497,16.24195204,11.8134579,4.428494149,NA,NA,0,0
+83,Lotus corniculatus,Fabaceae,Rosids,Thermally resilient,PY(PD),17.43378595,28.40074878,6.466823111,21.93392567,3.754102539,14.44825652,0,1
+84,Lotus creticus,Fabaceae,Rosids,Thermally resilient,PY(PD),24.40676893,28.48630279,20.32723508,8.159067704,0.289839677,NA,0,0
+85,Lotus dorycnium,Fabaceae,Rosids,Thermally resilient,PY(PD),17.57909238,22.24453305,12.91365171,9.330881338,7.554177213,15.54529432,1,1
+86,Luzula sylvatica,Juncaceae,Monocots,Cold-wide,PD,15.18893549,19.7149653,10.66290569,9.052059616,0.347381811,1.607305552,0,1
+87,Matthiola tricuspidata,Brassicaceae,Rosids,Warm-narrow,PD,17.35939968,19.97812498,14.74067439,5.237450591,NA,NA,0,0
+88,Medicago lupulina,Fabaceae,Rosids,Thermally resilient,PY(PD),17.16842292,24.59992821,9.736917621,14.86301059,2.038720124,7.050694949,0,1
+89,Melica uniflora,Poaceae,Monocots,High,NoInfo,14.48706326,15.74191875,13.23220778,2.509710965,2.201332028,21.70173204,0,0
+90,Minuartia recurva,Caryophyllaceae,Caryophyllales,High,NoInfo,14.55575003,17.58299187,11.5285082,6.054483675,0.870241406,2.691026411,0,1
+91,Nardus stricta,Poaceae,Monocots,Warm-narrow,PD,17.96649464,20.92216942,15.01081987,5.911349549,2.029322725,11.86822282,0,1
+92,Oloptum miliaceum,Poaceae,Monocots,High,NoInfo,16.75718083,19.03499874,14.47936291,4.555635821,NA,NA,0,0
+93,Ornithopus perpusillus,Fabaceae,Rosids,Cold-wide,NoInfo,15.42800926,21.26335502,9.592663499,11.67069152,2.751106601,32.01114355,0,0
+94,Pancratium maritimum,Amaryllidaceae,Monocots,Thermally resilient,M(P)D,18.32704655,23.77685976,12.87723334,10.89962642,1.158151057,8.701681793,0,0
+95,Petrorhagia prolifera,Caryophyllaceae,Caryophyllales,Thermally resilient,NoInfo,17.15675593,22.69942436,11.6140875,11.08533685,1.201520915,1.152561255,0,0
+96,Petrosedum rupestre,Crassulaceae,Rosids,Cold-wide,NoInfo,16.82394357,21.69554166,11.95234549,9.74319617,0.353120099,3.451983344,0,0
+97,Phillyrea angustifolia,Oleaceae,Asterids,Warm-narrow,PD,18.48228815,20.42367845,16.54089785,3.882780607,1.863367535,13.57451681,0,0
+98,Phillyrea latifolia,Oleaceae,Asterids,High,PD,14.2586539,15.63295019,12.88435762,2.748592573,0.711218941,2.718599825,0,0
+99,Phleum alpinum,Poaceae,Monocots,Thermally resilient,PD,17.86237322,24.19048326,11.53426318,12.65622008,0.408609102,2.070734027,0,1
+100,Phleum pratense,Poaceae,Monocots,Cold-wide,PD,16.23215101,25.69186983,6.772432181,18.91943765,1.075320539,4.095735875,0,1
+101,Phragmites australis,Poaceae,Monocots,Warm-narrow,PD,19.12539048,20.62614782,17.62463314,3.001514678,NA,NA,0,0
+102,Phyteuma hemisphaericum,Campanulaceae,Asterids,High,PD,11.53249854,14.67315285,8.391844239,6.281308612,NA,NA,0,1
+103,Pilosella officinarum,Asteraceae,Asterids,Cold-wide,NoInfo,14.54813369,19.1823781,9.91388928,9.268488817,NA,NA,0,1
+104,Pilosella vahlii,Asteraceae,Asterids,High,NoInfo,14.78471547,18.46988002,11.09955093,7.370329089,3.747791709,9.793486889,0,0
+105,Plantago lanceolata,Plantaginaceae,Asterids,Thermally resilient,PD,19.65010343,23.89196143,15.40824543,8.483715997,0.831437133,4.877388021,0,1
+106,Poa alpina,Poaceae,Monocots,Thermally resilient,PD,17.76654464,29.80015882,5.732930458,24.06722837,0.896360217,6.79794372,0,1
+107,Poa nemoralis,Poaceae,Monocots,Warm-narrow,PD,18.75209038,20.21412773,17.29005303,2.924074694,NA,NA,0,1
+108,Poa trivialis,Poaceae,Monocots,High,PD,16.95436533,20.08993181,13.81879885,6.271132966,0.67004485,5.167530975,0,1
+109,Potentilla reptans,Rosaceae,Rosids,Warm-narrow,PD,17.75741429,18.80802459,16.70680399,2.101220602,NA,NA,0,1
+110,Primula veris,Primulaceae,Asterids,High,PD,14.93239242,16.4059057,13.45887915,2.947026552,NA,NA,0,1
+111,Prunus avium,Rosaceae,Rosids,High,PD,6.893081068,8.852582167,4.93357997,3.919002197,0.596215083,8.785859213,0,0
+112,Prunus spinosa,Rosaceae,Rosids,Warm-narrow,PD,18.90379593,20.51627376,17.2913181,3.22495566,NA,NA,0,0
+113,Pulicaria dysenterica,Asteraceae,Asterids,Thermally resilient,PD,23.6600074,29.19937813,18.12063667,11.07874146,NA,NA,0,0
+114,Rhamnus alaternus,Rhamnaceae,Rosids,High,PD,14.05930016,15.70451162,12.4140887,3.290422919,0.310046379,2.099319668,0,0
+115,Roemeria sicula,Papaveraceae,EarlyEU,High,NoInfo,14.01327568,14.94113956,13.08541179,1.855727769,0.6826649,6.900489431,0,0
+116,Rubus idaeus,Rosaceae,Rosids,Thermally resilient,PD,25.40093416,30.29270863,20.50915969,9.783548936,8.484458171,27.80864745,0,1
+117,Rumex acetosella,Polygonaceae,Caryophyllales,High,PD,16.85905162,19.87597754,13.8421257,6.033851838,2.329491419,45.42713173,0,1
+118,Rumex suffruticosus,Polygonaceae,Caryophyllales,Warm-narrow,PD,21.05281692,24.04016314,18.0654707,5.974692442,NA,NA,0,0
+119,Sabulina verna,Caryophyllaceae,Caryophyllales,Cold-wide,NoInfo,9.343013408,19.89703157,-1.211004757,21.10803633,3.504483767,16.77223405,0,1
+120,Sanguisorba minor,Rosaceae,Rosids,Thermally resilient,PD,19.84860816,26.43468455,13.26253177,13.17215278,NA,NA,0,1
+121,Sarcopoterium spinosum,Rosaceae,Rosids,Warm-narrow,PD,17.09537721,19.51337228,14.67738215,4.835990127,0.651592804,7.944185409,0,0
+122,Schoenus nigricans,Cyperaceae,Monocots,Warm-narrow,PD,20.9136293,23.43893425,18.38832434,5.050609911,NA,NA,0,0
+123,Scorpiurus muricatus,Fabaceae,Rosids,Thermally resilient,PY(PD),19.51170929,24.53875412,14.48466445,10.05408968,0.851562064,18.1015605,0,0
+124,Sesleria caerulea,Poaceae,Monocots,Cold-wide,NoInfo,16.07211049,20.30766169,11.83655929,8.471102394,4.176710113,7.113788598,0,1
+125,Silene ciliata,Caryophyllaceae,Caryophyllales,Warm-narrow,PD,20.44972309,24.27578924,16.62365695,7.652132286,3.614376694,19.16444901,0,1
+126,Silene colorata,Caryophyllaceae,Caryophyllales,Thermally resilient,PD,19.85293042,24.19706139,15.50879946,8.688261936,2.706905007,14.79534947,0,0
+127,Silene flos-cuculi,Caryophyllaceae,Caryophyllales,Thermally resilient,PD,20.33720751,25.11638092,15.55803411,9.558346817,0.789927991,4.831192802,0,1
+128,Silene gallica,Caryophyllaceae,Caryophyllales,High,PD,16.95673104,20.34722859,13.56623348,6.780995108,1.062907288,2.430049338,0,0
+129,Thinopyrum junceum,Poaceae,Monocots,Cold-wide,NoInfo,11.83248919,21.89967892,1.765299473,20.13437944,NA,NA,0,0
+130,Thymus praecox,Lamiaceae,Asterids,Thermally resilient,ND,18.24273442,22.54390555,13.9415633,8.602342245,0.644921938,4.36034286,0,1
+131,Tolpis barbata,Asteraceae,Asterids,Cold-wide,NoInfo,11.8655102,19.25342794,4.477592458,14.77583548,NA,NA,0,0
+132,Trifolium dubium,Fabaceae,Rosids,Cold-wide,PY(PD),16.78173332,21.32639587,12.23707077,9.089325091,NA,NA,0,1
+133,Trifolium fragiferum,Fabaceae,Rosids,Thermally resilient,PY(PD),17.52382094,22.42661869,12.62102318,9.805595506,NA,NA,0,1
+134,Trifolium repens,Fabaceae,Rosids,Cold-wide,PY(PD),16.35451691,23.59091767,9.11811615,14.47280152,1.348598294,3.959261204,0,1
+135,Tripolium pannonicum,Asteraceae,Asterids,Warm-narrow,PD,17.62602176,19.49003243,15.76201109,3.728021343,NA,NA,0,0
+136,Trocdaris verticillata,Apiaceae,Asterids,High,NoInfo,13.23579931,16.69721082,9.774387797,6.922823024,NA,NA,0,1
+137,Urtica dioica,Urticaceae,Rosids,Thermally resilient,PD,22.63604638,27.81134599,17.46074677,10.35059922,7.068320251,15.11341392,0,1
+138,Veronica officinalis,Plantaginaceae,Asterids,Warm-narrow,PD,17.24621288,19.69246167,14.79996409,4.892497582,0.672566701,6.611543054,0,1
+139,Viburnum lantana,Viburnaceae,Asterids,High,M(P)D,13.93443196,15.36653668,12.50232724,2.864209435,1.301716434,20.44535369,0,0
+140,Vitis vinifera,Vitaceae,Rosids,Warm-narrow,M(P)D,20.13307251,23.69982811,16.5663169,7.133511207,3.786312173,10.26033968,0,0

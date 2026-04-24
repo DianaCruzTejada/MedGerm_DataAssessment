@@ -7,7 +7,7 @@ library(phylolm); library(tidyverse); library(ape); library(tibble);
 
 tree <- read.tree("data/Phylo_tree_EUNIS.tree") 
 
-data_qual <- read.csv("data/Appendix S6.csv") %>%
+data_qual <- read.csv("results/Supplementary Material/Appendix_S6.csv") %>%
   mutate(species = gsub(" ", "_", Accepted_binomial)) %>%
   separate(species, into = c("genus", "spp."), sep = "_") %>%
   mutate(species = paste(genus, spp., sep = "_")) %>%

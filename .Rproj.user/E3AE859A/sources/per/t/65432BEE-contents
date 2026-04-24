@@ -1,41 +1,41 @@
 # Thermal modelling (Sentinella et al 2020)
 library(glmmTMB); library(tidyverse); library(MCMCglmm); library(writexl)
-read.csv("data/original.csv") %>% # from Cruz-Tejada et al., 2024b
-  select(id_test,accepted_binomial,Family, clade5,seedlot,Tmean,Germinated,Germinable) -> data
-length(unique(data$accepted_binomial))# 459 spp
+read.csv("data/data.csv") %>% # from Cruz-Tejada et al., 2024b
+  select(id_test,ID,Family, clade,seedlot,Tmean,Germinated,Germinable) -> data
+length(unique(data$ID))# 459 spp
 
 #Prepare data ####
 data <- data %>% # dataset name 
   mutate(propgerm = Germinated/Germinable )%>%   #new column with the germination proportion
-  group_by(accepted_binomial) %>%
+  group_by(ID) %>%
   mutate(maxgerm = max(propgerm)) %>%
   data.frame()
 #Find maximum germination percentage in group
 data <- data %>%
-  group_by(accepted_binomial) %>%
+  group_by(ID) %>%
   mutate(maxgerm = max(propgerm))
 
 ###### Number of tested temperatures (NTestTemp > 2) #### 
 # Flagged any groups with less than 3 different temperatures as 0
 pf1 <- data %>%
-  group_by(accepted_binomial) %>%
+  group_by(ID) %>%
   add_tally(n_distinct(Tmean), name = "Tmean_count")%>%
   mutate(pf1=ifelse(Tmean_count > 2,1,0))%>%
-  select(accepted_binomial,pf1)%>%
+  select(ID,pf1)%>%
   distinct()
 
 # filter out the species that do not have more than two data of temperature
 MCMC <- data %>%
-  group_by(accepted_binomial) %>%
+  group_by(ID) %>%
   add_tally(n_distinct(Tmean), name = "Tmean_count")%>%
   filter(any(Tmean_count > 2))
 
-length(unique(MCMC$accepted_binomial))#322
+length(unique(MCMC$ID))#322
 
 # Modeling ####
 safe_glm <- safely(glmmTMB)
 
-TMB_models <- MCMC %>% group_by(accepted_binomial) %>%
+TMB_models <- MCMC %>% group_by(ID) %>%
   do(germ.model = safe_glm(cbind(Germinated, Germinable - Germinated)~ I(Tmean) + I((Tmean) ^ 2)
                            + (1|seedlot)+(1|id_test),
                            ziformula = ~0,
