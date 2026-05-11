@@ -24,7 +24,7 @@ The repository includes scripts and outputs associated with:
 
 Please cite this repository and associated manuscript as:
 
-Cruz-Tejada, D. M., Mattana, E., & Carta, A. (2026). *Modelling seed germination data to meet biodiversity conservation needs in Mediterranean habitats. Conservation Biology. Available from 
+Cruz-Tejada, D. M., Mattana, E., & Carta, A. (2026). *Modeling seed germination data to meet biodiversity conservation needs in the Mediterranean. Conservation Biology. Conservation Biology. Repository available at: https://github.com/DianaCruzTejada/MedGerm_DataAssessment. Archived version available at: https://doi.org/10.5281/zenodo.20118926
 
 ## Contact
 
